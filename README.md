@@ -1,10 +1,11 @@
-# NITYANAND YADAV  - Portfolio
+# Nityanand yadav - Portfolio
 
-A personal portfolio website for NITYANAND YADAV , Fullstack developer .
+A personal portfolio website for Nityanand yadav, Frontend Developer.
 
 ## About
 
-I am a motivated and versatile full-stack web developer with expertise in UI/UX design, programming, and DSA. Passionate about learning and problem-so...
+Pre-final year CSE student at GITAM University with hands-on experience in full-stack devel-
+opment. Built projects like TypeBlaze (real-time typing g...
 
 ## Built With
 
